@@ -46,6 +46,6 @@
   },
   "dependencies": {
     "markdown-it": "12.3.2",
-    "micro": "9.3.4"
+    "micro": "9.4.1"
   }
 }
